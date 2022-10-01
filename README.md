@@ -41,13 +41,21 @@
 
   <br>
   
+
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanp77&hide=java&langs_count=4&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
+<br>
 
-
-
+  <div align="center">
+   <h3>🌱 I’m currently learning </h3>
+   
+   <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" />
+   <img height="50" src="https://res.cloudinary.com/dzkollux2/image/upload/v1664636478/next-js_dgq8pd.svg" alt="Next.js" title="Next.js" />
+  </div>
+  
 
 
 <!--
