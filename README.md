@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Hola 👋 Mi nombre es Johan</h2>
+  <h2>Hello 👋 mi name is Johan</h2>
   
-  <h3> Desarrollador Front-End en entrenamiento </h4>
+  <h3> Front-end developer on training </h4>
   
   <hr>
 
@@ -43,7 +43,7 @@
   
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanp77&hide=java&langs_count=4&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanp77&hide=java&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
